@@ -24,7 +24,7 @@ This project implements a command-line ATM client application using Java and obj
 1. **Prerequisites:** Ensure you have Java installed on your system.
 2. **Clone the repository:** Use Git to clone this repository:
    ```bash
-   git clone https://github.com/HarithaMihimal/java-atm-client.git
+   git clone https://github.com/HarithaMihimal/Command-line-ATM-client.git
    ```
    
 
@@ -32,7 +32,7 @@ This project implements a command-line ATM client application using Java and obj
 
 1. **Navigate to the project directory:**
    ```bash
-   cd java-atm-client
+   cd Command-line-ATM-client
    ```
 2. **Compile the Java code:**
    ```bash
