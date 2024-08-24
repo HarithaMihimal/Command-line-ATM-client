@@ -1,0 +1,52 @@
+Welcome!
+1234
+
+=====ABC Main Menu=====
+1. View Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
+Please select an option (1-4): 1
+Account balance: 5000.0
+
+=====ABC Main Menu=====
+1. View Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
+Please select an option (1-4): 2
+Please enter the amount to withdraw: 50
+
+=====ABC Main Menu=====
+1. View Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
+Please select an option (1-4): 1
+Account balance: 4950.0
+
+=====ABC Main Menu=====
+1. View Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
+Please select an option (1-4): 3
+Please enter the amount to deposit: 200
+
+=====ABC Main Menu=====
+1. View Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
+Please select an option (1-4): 1
+Account balance: 5150.0
+
+=====ABC Main Menu=====
+1. View Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
+Please select an option (1-4): 4
+Thank you for using ABC Bank services!.Bye
+
+Process finished with exit code 0
